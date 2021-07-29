@@ -7,3 +7,5 @@ fix more bugs.   master test
 fix more bugs.	hot-fix test
 
 more bugs found.
+
+more fix by vividbobo.
